@@ -1,0 +1,52 @@
+stuff {
+    rules: here;
+}
+
+html {
+    background-color: blanchedalmond;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration-color: #7E7E7E;
+}
+
+h6 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+}
+
+th {
+    padding: 10px;
+}
+
+p {
+    font-size: smaller;
+    text-decoration-color: #7e7e7e;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p.headp {
+    font-size: medium;
+    font-weight: bold;
+    text-decoration-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Profile {
+    align-items: center;
+}
+
+img {
+    border-radius: 50%;
+}
+
+a:link, a:visited{
+    color: #7E7E7E;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #535353;
+}
+
